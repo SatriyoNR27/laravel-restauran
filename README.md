@@ -38,3 +38,4 @@ Password: pelanggan
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 # laravel-restauran
+# Laravel-Restoran
